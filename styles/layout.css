@@ -25,6 +25,7 @@ header {
 
 footer {
     border-top: 4px double purple;
+    clear: both;
 }
 
 #lists {
@@ -34,4 +35,21 @@ footer {
 #tables {
     margin: auto;
     float: right;
+}
+
+#images {
+    float: right;
+}
+
+figure {
+    border: 2px solid #ccc;
+}
+
+#hyperlinks {
+    clear:both;
+}
+
+#lists, #images, #tables, #hyperlinks {
+    width: 50%;
+    text-align: center;
 }
