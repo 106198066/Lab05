@@ -1,3 +1,9 @@
+/*
+   Lab 05 - Layout Styles
+   Author:  Joud Khalal
+   Date:     20 October 2026
+   Filename: layout.css
+*/
 aside:hover {display:block;}
 
 .menu { display: inline-block; }
@@ -16,10 +22,10 @@ aside {
 }
 
 header {
-    border: 1px inset darkgray;
+    border: 1px solid darkgray;
     margin: 0.5em;
     padding: 0.5em;
-    background-color: blue;
+    background-color: lightgray;
     text-align: center;
 }
 
@@ -32,8 +38,11 @@ footer {
     float: left;
 }
 
-#tables {
+table{
     margin: auto;
+}
+
+#tables {
     float: right;
 }
 
