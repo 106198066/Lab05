@@ -57,3 +57,6 @@ figure {
 ol, ul , dl {
    text-align: left; 
 }
+
+article { min-width:30em; }
+
