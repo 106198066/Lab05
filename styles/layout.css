@@ -53,3 +53,7 @@ figure {
     width: 50%;
     text-align: center;
 }
+
+ol, ul , dl {
+   text-align: left; 
+}
