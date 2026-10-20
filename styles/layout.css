@@ -30,3 +30,8 @@ footer {
 #lists {
     float: left;
 }
+
+#tables {
+    margin: auto;
+    float: right;
+}
